@@ -3,10 +3,11 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.12.3]",
-    "UiPath.Mail.Activities": "[1.15.2]",
-    "UiPath.System.Activities": "[22.4.4]",
-    "UiPath.UIAutomation.Activities": "[22.4.7]"
+    "Selenium.WebDriver.MicrosoftDriver": "[17.17134.0]",
+    "UiPath.Excel.Activities": "[2.15.0-preview]",
+    "UiPath.Mail.Activities": "[1.18.0]",
+    "UiPath.System.Activities": "[22.10.0-preview]",
+    "UiPath.UIAutomation.Activities": "[22.10.0-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
